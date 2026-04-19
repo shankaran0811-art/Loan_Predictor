@@ -64,7 +64,7 @@ Matplotlib / Seaborn
 Scikit-learn
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/yourusername/loan-approval-prediction.git
+git clone https://github.com/shankaran0811-art/Loan_Predictor.git
 Install dependencies:
 pip install -r requirements.txt
 Run the notebook:
